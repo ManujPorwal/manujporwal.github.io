@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://manujporwal.github.io/sitemap.xml 
+Sitemap: http://ManujPorwal.github.io/sitemap.xml 

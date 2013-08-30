@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[NSMonk]]></title>
-  <link href="http://manujporwal.github.io/atom.xml" rel="self"/>
-  <link href="http://manujporwal.github.io/"/>
-  <updated>2013-08-29T23:34:10+05:30</updated>
-  <id>http://manujporwal.github.io/</id>
+  <link href="http://ManujPorwal.github.io/atom.xml" rel="self"/>
+  <link href="http://ManujPorwal.github.io/"/>
+  <updated>2013-08-30T19:58:41+05:30</updated>
+  <id>http://ManujPorwal.github.io/</id>
   <author>
     <name><![CDATA[Manuj Porwal]]></name>
     <email><![CDATA[manujporwal@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Using octopress for blogging]]></title>
-    <link href="http://manujporwal.github.io/blog/2013/08/29/using-octopress-for-blogging/"/>
+    <link href="http://ManujPorwal.github.io/blog/2013/08/29/using-octopress-for-blogging/"/>
     <updated>2013-08-29T23:15:00+05:30</updated>
-    <id>http://manujporwal.github.io/blog/2013/08/29/using-octopress-for-blogging</id>
+    <id>http://ManujPorwal.github.io/blog/2013/08/29/using-octopress-for-blogging</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
